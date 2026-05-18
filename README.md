@@ -15,3 +15,12 @@
   - Update the components
   - Update Pipeline
   - Update main.py
+
+- Data Validation
+  - Update config.yml
+  - Update schema.yml
+  - Update entity
+  - Update Configuration manager in src config
+  - Update the components
+  - Update Pipeline
+  - Update main.py
